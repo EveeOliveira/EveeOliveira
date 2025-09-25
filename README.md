@@ -1,6 +1,6 @@
 ## Oii!👋 Me chamo Evelen Oliveira
 
-**Sou uma apaixonada pela a arte e programação | Venha conhecer um pouco mais do meu trabalho!**
+**Sou uma apaixonada pela arte e programação | Venha conhecer um pouco mais do meu trabalho!**
 - ⚡ Desenvolvedora Fullstack
 - 🔭 Atualmente trabalhando com front-end
 - 🌱 Me aventurando no aprendizado mobile
